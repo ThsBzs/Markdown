@@ -1,3 +1,6 @@
+##Markdown-app
+This is a React-made Markdown application. It renders the text you type in a Markdown version.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
